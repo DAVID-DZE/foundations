@@ -1,0 +1,18 @@
+#grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 960px;
+}
+
+.gridSquare {
+    border-color: black;
+    border: 1px;
+    border-style: solid;
+    box-sizing: border-box;
+}
+
+#changeSizeButton {
+    display: flex;
+    padding: 10px 50px;
+    margin-bottom: 10px;
+}
